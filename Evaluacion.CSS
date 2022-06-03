@@ -1,0 +1,32 @@
+.Logo{
+    text-align: left;
+}
+
+a{
+    color: aqua;
+    text-decoration: none;
+}
+
+nav{
+    border: 15px;
+}
+
+ul{
+    color: rgb(0, 255, 255);
+    font-size: 30px;
+    display: flex;
+    justify-content: right;
+}
+
+main{
+    text-align: center;
+    width: 100%;
+}
+
+footer{
+    text-align: center;
+}
+
+h2{
+    color: rgb(172, 172, 0);
+}
